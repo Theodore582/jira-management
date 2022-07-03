@@ -1,0 +1,44 @@
+.header{
+    height: 60px;
+    display:flex;
+    width: 100vw;
+    justify-content: space-between;
+    align-items: center;
+}    
+.sub{
+    height: 60px;
+    display:flex;
+    width: 100vw;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+    height: 60px;
+    margin: 0px 150px;
+}
+
+.image{
+    width: 315px;
+    height: 60px;
+    margin: 10px 16px;
+    cursor: pointer;
+    
+    
+}
+
+.btn{
+    height: 30px;
+    width: 89px;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #0052CC;;
+    outline:none;
+    border: none;
+    border-radius:6%;
+    padding: 0px 10px;
+    cursor: pointer;
+}
+
+btn:hover{
+    background-color: #d4d2d2;
+}
+
