@@ -1,0 +1,57 @@
+.Teams {
+    height: 179 px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top:64px;
+    padding-bottom: 64px;
+    margin: auto;
+}
+
+.sec h1 {
+    color: #253858;
+    font-size: 36px;
+    font-weight: 500;
+    padding-bottom:16px;
+}
+
+img{
+    display: inline-block;
+    width: 144px;
+    height: 35px;
+    justify-content: space-evenly;
+    margin: 0px 0px 16px;
+    margin-left: 40px;
+    width: 1168;
+}
+
+.square{
+    width: 144px;
+    height: 35px;
+}
+
+.sothebys{
+width: 145px;
+height: 35px;
+}
+
+.dominos{
+ width: 162px;
+ height: 35px;
+}
+
+.puppet{
+ width: 99px;
+ height: 35px;
+}
+
+.twitter{
+    width: 43px;
+    height: 35px;
+}
+
+.telegraph{
+    width: 219px;
+    height: 35px;
+}
+

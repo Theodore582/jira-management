@@ -1,0 +1,100 @@
+.copyright {
+    width: 1550px;
+    height: 64px;
+    align-items: stretch;
+    border-top: 0.5px solid #42526e;
+    color: #42526e;
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #f4f5f7;
+}
+
+#languages {
+    border: none;
+    outline: none;
+    background-color: #f4f5f7;
+}
+      
+.lang {
+    width: 28px;
+    height: 28px;
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    background-color: #f4f5f7;
+    padding-right:7px;
+}
+
+
+
+.bottom {
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+    height: 64px;
+}
+
+.privacy{
+    justify-content: space-between;
+    height: 64px;
+}
+
+.privacy ul{
+    display: flex;
+    float: left;
+    list-style: none;
+    
+}
+
+.privacy li{
+    margin-left: 50px;
+}
+
+.copy{
+    margin-left: 200px;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+
+.iconz{
+    display: flex;
+    margin-left: 850px;
+    height: 64px;
+    
+}
+
+.iconz li{
+    width: 32px;
+    height: 32px;
+    margin-right:20px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    justify-content: space-between;
+}
+.facebook{
+    width: 32px;
+    height: 32px;
+    color: rgb(67, 67, 144);
+    margin: 0px 3px 0px 3px;
+    
+}
+.twitter{
+    width: 32px;
+    height: 32px;
+    color: rgb(55, 139, 249);
+    margin: 0px 3px 0px 3px;
+}
+.youtube{
+    width: 32px;
+    height: 32px;
+    color: rgb(78, 78, 116);
+    margin: 0px 3px 0px 3px;
+    
+}
+.linkedin{
+    width: 32px;
+    height: 32px;
+    color: rgb(67, 67, 144);
+    margin: 0px 3px 0px 3px;
+}
